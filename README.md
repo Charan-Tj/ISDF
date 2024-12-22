@@ -1,13 +1,6 @@
 <!-- Message -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fhelp&title=Visitors&edge_flat=false"/></a>
 
-![image](https://github.com/user-attachments/assets/a568a1a3-c1a6-489f-bfef-a285b42436a4)
-
-Regards,
-
-**A Student**
-<!-- // -->
------
 <!-- Zphisher -->
 
 <p align="center">
